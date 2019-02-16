@@ -9,7 +9,7 @@
     "file": "LICENSE"
   },
   "authors": {
-    "RichChane": "chenruichen@kp99.cn"
+    "RichChane": "314112759@qq.com"
   },
   "source": {
     "git": "https://github.com/RichChane/KPIOSFoundation.git",
@@ -18,5 +18,40 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "KPIOSFoundation/Classes/**/*"
+  "dependencies": {
+    "FMDB": [
+
+    ],
+    "CocoaAsyncSocket": [
+
+    ],
+    "AFNetworking": [
+
+    ],
+    "ZipArchive": [
+
+    ]
+  },
+  "public_header_files": "KPIOSFoundation/KPIOSFoundation.h",
+  "source_files": "KPIOSFoundation/ZYFoundation.h",
+  "subspecs": [
+    {
+      "name": "Module",
+      "public_header_files": [
+        "KPIOSFoundation/Module/**/*.h",
+        "KPIOSFoundation/ZYPublicDefine.h"
+      ],
+      "source_files": [
+        "KPIOSFoundation/Module/**/*.{h,m}",
+        "KPIOSFoundation/ZYPublicDefine.h"
+      ],
+      "requires_arc": true
+    },
+    {
+      "name": "ObjSafe",
+      "public_header_files": "KPIOSFoundation/NoArc/ObjSafe/*.h",
+      "source_files": "KPIOSFoundation/NoArc/ObjSafe/*.{h,m}",
+      "requires_arc": false
+    }
+  ]
 }
