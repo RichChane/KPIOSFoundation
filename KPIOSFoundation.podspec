@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+    use Quick start
                        DESC
 
   s.homepage         = 'https://github.com/RichChane/KPIOSFoundation'
@@ -35,7 +35,7 @@ s.dependency 'CocoaAsyncSocket'
 s.dependency 'AFNetworking'
 s.dependency 'ZipArchive'
 
-  s.public_header_files = 'KPIOSFoundation/KPIOSFoundation.h'
+  s.public_header_files = 'KPIOSFoundation/ZYFoundation.h'
   s.source_files = 'KPIOSFoundation/ZYFoundation.h'
 
 s.subspec 'Module' do |ss|
