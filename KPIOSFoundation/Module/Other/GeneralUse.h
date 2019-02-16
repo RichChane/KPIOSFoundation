@@ -82,6 +82,6 @@
 
 @end
 
-#import <ZYFoundation/GeneralUse+Compress.h>
+#import <KPIOSFoundation/GeneralUse+Compress.h>
 
-#import <ZYFoundation/GeneralUse+Time.h>
+#import <KPIOSFoundation/GeneralUse+Time.h>

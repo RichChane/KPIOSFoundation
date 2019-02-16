@@ -6,7 +6,7 @@
 //  Copyright © 2017年 ZYY. All rights reserved.
 //  不需要考虑多线程安全，苹果已经考虑
 
-#import <ZYFoundation/FileUse.h>
+#import <KPIOSFoundation/FileUse.h>
 
 extern NSString *const FolderName_UnClean_UserFile;             // 永久不清除
 extern NSString *const FolderName_UnClean_ImportantFile;        // 永久不清除

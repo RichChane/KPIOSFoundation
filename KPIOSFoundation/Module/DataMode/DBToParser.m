@@ -10,9 +10,9 @@
 
 #import <objc/runtime.h>
 
-#import <ZYFoundation/FileToUse.h>
+#import <KPIOSFoundation/FileToUse.h>
 
-#import <ZYFoundation/GeneralUse.h>
+#import <KPIOSFoundation/GeneralUse.h>
 
 #define FileLibDB       @"LibDatabase.db"         // 默认存储数据库
 

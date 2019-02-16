@@ -8,7 +8,7 @@
 
 #import "ShareTable.h"
 
-#import <ZYFoundation/FileUse.h>
+#import <KPIOSFoundation/FileUse.h>
 
 #define MainKey_Extend   @"to_out_"
 

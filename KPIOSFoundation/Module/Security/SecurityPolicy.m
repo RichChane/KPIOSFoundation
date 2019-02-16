@@ -8,13 +8,13 @@
 
 #import "SecurityPolicy.h"
 
-#import <ZYFoundation/ZYPublicDefine.h>
+#import <KPIOSFoundation/ZYPublicDefine.h>
 
 #import <CommonCrypto/CommonCryptor.h>
 #import <CommonCrypto/CommonDigest.h>
 
-#import <ZYFoundation/DeviceBaseData.h>
-#import <ZYFoundation/KeychainItemWrapper.h>
+#import <KPIOSFoundation/DeviceBaseData.h>
+#import <KPIOSFoundation/KeychainItemWrapper.h>
 
 #import "zlib.h"
 

@@ -16,27 +16,27 @@ FOUNDATION_EXPORT const unsigned char ZYYObjcLibVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <ZYYObjcLib/PublicHeader.h>
 
-#import <ZYFoundation/GeneralUse.h>
-#import <ZYFoundation/ZYPublicDefine.h>
-#import <ZYFoundation/DeviceBaseData.h>
+#import <KPIOSFoundation/GeneralUse.h>
+#import <KPIOSFoundation/ZYPublicDefine.h>
+#import <KPIOSFoundation/DeviceBaseData.h>
 
-#import <ZYFoundation/DBToParser.h>
-#import <ZYFoundation/JsonToParser.h>
-#import <ZYFoundation/BridgeClientSDK.h>
-#import <ZYFoundation/NetWorkManage.h>
-#import <ZYFoundation/CheckNetwork.h>
+#import <KPIOSFoundation/DBToParser.h>
+#import <KPIOSFoundation/JsonToParser.h>
+#import <KPIOSFoundation/BridgeClientSDK.h>
+#import <KPIOSFoundation/NetWorkManage.h>
+#import <KPIOSFoundation/CheckNetwork.h>
 
-#import <ZYFoundation/AnimTimeManege.h>
-#import <ZYFoundation/TimingTask.h>
+#import <KPIOSFoundation/AnimTimeManege.h>
+#import <KPIOSFoundation/TimingTask.h>
 
-#import <ZYFoundation/FileUse.h>
-#import <ZYFoundation/FileUseOther.h>
-#import <ZYFoundation/ShareTable.h>
+#import <KPIOSFoundation/FileUse.h>
+#import <KPIOSFoundation/FileUseOther.h>
+#import <KPIOSFoundation/ShareTable.h>
 
-#import <ZYFoundation/SecurityPolicy.h>
-#import <ZYFoundation/MultiLanguage.h>
-#import <ZYFoundation/TCPLinkManage.h>
+#import <KPIOSFoundation/SecurityPolicy.h>
+#import <KPIOSFoundation/MultiLanguage.h>
+#import <KPIOSFoundation/TCPLinkManage.h>
 
 
-#import <ZYFoundation/GeneralUIUse.h>
-#import <ZYFoundation/LCMD5Tool.h>
+#import <KPIOSFoundation/GeneralUIUse.h>
+#import <KPIOSFoundation/LCMD5Tool.h>

@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <ZYFoundation/NetWorkPublic.h>
+#import <KPIOSFoundation/NetWorkPublic.h>
 
 typedef void (^BSLocal)(BOOL isLocal);     // 本地返回
 

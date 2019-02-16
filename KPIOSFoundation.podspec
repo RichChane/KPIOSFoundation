@@ -36,7 +36,7 @@ s.dependency 'AFNetworking'
 s.dependency 'ZipArchive'
 
   s.public_header_files = 'KPIOSFoundation/KPIOSFoundation.h'
-  s.source_files = 'KPIOSFoundation/Classes/**/*'
+  s.source_files = 'KPIOSFoundation/ZYFoundation.h'
 
 s.subspec 'Module' do |ss|
 ss.public_header_files = 'KPIOSFoundation/Module/**/*.h','KPIOSFoundation/ZYPublicDefine.h'

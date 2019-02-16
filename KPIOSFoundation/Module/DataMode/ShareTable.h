@@ -6,7 +6,7 @@
 //  Copyright © 2015年 ZYY. All rights reserved.
 ////    通用数据库表
 
-#import <ZYFoundation/DBToParser.h>
+#import <KPIOSFoundation/DBToParser.h>
 
 typedef void (^ShareFinish)(BOOL isSec);     // 网络返回
 

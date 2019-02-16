@@ -6,9 +6,9 @@
 //  Copyright © 2017年 ZYY. All rights reserved.
 //
 
-#import <ZYFoundation/GeneralUIUse+Image.h>
+#import <KPIOSFoundation/GeneralUIUse+Image.h>
 
-#import <ZYFoundation/ZYPublicDefine.h>
+#import <KPIOSFoundation/ZYPublicDefine.h>
 
 @implementation GeneralUIUse (Image)
 

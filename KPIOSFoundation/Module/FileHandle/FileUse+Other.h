@@ -6,7 +6,7 @@
 //  Copyright © 2017年 ZYY. All rights reserved.
 //
 
-#import <ZYFoundation/FileUse.h>
+#import <KPIOSFoundation/FileUse.h>
 
 //#define FCJsonLocal(key) \
 //[[FileUse Share] getAsynchronousJsonLocal:key BundleResource:@"ZYYLibBundle"]

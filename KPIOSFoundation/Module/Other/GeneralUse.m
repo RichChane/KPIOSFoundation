@@ -6,9 +6,9 @@
 //  Copyright © 2017年 ZYY. All rights reserved.
 //
 
-#import <ZYFoundation/GeneralUse.h>
+#import <KPIOSFoundation/GeneralUse.h>
 
-#import <ZYFoundation/MultiLanguage.h>
+#import <KPIOSFoundation/MultiLanguage.h>
 
 @implementation GeneralUse
 

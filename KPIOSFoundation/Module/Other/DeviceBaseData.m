@@ -6,7 +6,7 @@
 //
 //
 
-#import <ZYFoundation/DeviceBaseData.h>
+#import <KPIOSFoundation/DeviceBaseData.h>
 #import <sys/utsname.h>
 
 

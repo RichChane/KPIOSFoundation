@@ -10,7 +10,7 @@
 
 #import <AFNetworking/AFNetworking.h>
 
-#import <ZYFoundation/NetWorkPublic.h>
+#import <KPIOSFoundation/NetWorkPublic.h>
 
 typedef NS_ENUM (NSInteger,RequestStatus)  {
     RequestNone = 0,

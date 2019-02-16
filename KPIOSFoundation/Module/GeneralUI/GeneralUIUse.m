@@ -6,7 +6,7 @@
 //  Copyright © 2017年 ZYY. All rights reserved.
 //
 
-#import <ZYFoundation/GeneralUIUse.h>
+#import <KPIOSFoundation/GeneralUIUse.h>
 
 #define UpLineTag           78763
 #define DownLineTag           78762

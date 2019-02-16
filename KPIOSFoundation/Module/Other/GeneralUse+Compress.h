@@ -6,7 +6,7 @@
 //
 //  压缩、解压
 
-#import <ZYFoundation/GeneralUse.h>
+#import <KPIOSFoundation/GeneralUse.h>
 
 @interface GeneralUse (Compress)
 

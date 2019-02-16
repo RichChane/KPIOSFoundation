@@ -6,7 +6,7 @@
 //  Copyright © 2017年 ZYY. All rights reserved.
 //  密码安全提示
 
-#import <ZYFoundation/GeneralUse.h>
+#import <KPIOSFoundation/GeneralUse.h>
 
 /**
  密码强度级别枚举，从0(最低)到6(最高)

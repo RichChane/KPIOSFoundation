@@ -6,7 +6,7 @@
 //  Copyright © 2017年 ZYY. All rights reserved.
 //  时间处理
 
-#import <ZYFoundation/GeneralUse.h>
+#import <KPIOSFoundation/GeneralUse.h>
 #import <CoreGraphics/CoreGraphics.h>
 
 @interface GeneralUse (Time)

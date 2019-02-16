@@ -6,7 +6,7 @@
 //  Copyright © 2017年 ZYY. All rights reserved.
 //
 
-#import <ZYFoundation/GeneralUIUse.h>
+#import <KPIOSFoundation/GeneralUIUse.h>
 
 #define GUUImageLocal(key) \
 [GeneralUIUse GetImageLocal:key BundleResource:@"ZYYLibBundle"]
