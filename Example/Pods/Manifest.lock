@@ -1,0 +1,16 @@
+PODS:
+  - KPIOSFoundation (0.1.0)
+
+DEPENDENCIES:
+  - KPIOSFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  KPIOSFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KPIOSFoundation: 433ba5e8808df525523f8b2745350faa7e20f7e5
+
+PODFILE CHECKSUM: cba5350141c1adac3d6527ce9fdc4c855e3bb446
+
+COCOAPODS: 1.5.3
