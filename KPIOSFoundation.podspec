@@ -38,17 +38,9 @@ s.dependency 'ZipArchive'
   s.public_header_files = 'KPIOSFoundation/ZYFoundation.h'
   s.source_files = 'KPIOSFoundation/ZYFoundation.h'
 
-s.subspec 'Module' do |ss|
-ss.public_header_files = 'KPIOSFoundation/Module/**/*.h','KPIOSFoundation/ZYPublicDefine.h'
-ss.source_files = 'KPIOSFoundation/Module/**/*.{h,m}','KPIOSFoundation/ZYPublicDefine.h'
-ss.requires_arc = true
-end
-
-s.subspec 'ObjSafe' do |ss|
-ss.public_header_files = 'KPIOSFoundation/NoArc/ObjSafe/*.h'
-ss.source_files = 'KPIOSFoundation/NoArc/ObjSafe/*.{h,m}'
-ss.requires_arc = false
-end
+  s.requires_arc = false
+  s.requires_arc = ['KPIOSFoundation/Module/**/*.m']
+  
 
 
   # s.resource_bundles = {

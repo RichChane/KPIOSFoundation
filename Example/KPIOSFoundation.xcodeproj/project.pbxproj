@@ -59,13 +59,13 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		6ADF34DA6A8954052229264A /* KPIOSFoundation.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = KPIOSFoundation.podspec; path = ../KPIOSFoundation.podspec; sourceTree = "<group>"; };
+		6ADF34DA6A8954052229264A /* KPIOSFoundation.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KPIOSFoundation.podspec; path = ../KPIOSFoundation.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		86C36CC9398F7E3A3895A47A /* Pods-KPIOSFoundation_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KPIOSFoundation_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KPIOSFoundation_Tests/Pods-KPIOSFoundation_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8E1928C77D1EA0AD6524CF72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		8E1928C77D1EA0AD6524CF72 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		CCE285ED29E8EA53B34C929B /* Pods-KPIOSFoundation_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KPIOSFoundation_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-KPIOSFoundation_Example/Pods-KPIOSFoundation_Example.release.xcconfig"; sourceTree = "<group>"; };
-		E5694DD59A66CE26742B98AB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E5694DD59A66CE26742B98AB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		EB5382FA294DA4D61DDD3A65 /* Pods_KPIOSFoundation_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KPIOSFoundation_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
