@@ -39,7 +39,7 @@ s.dependency 'ZipArchive'
   s.source_files = 'KPIOSFoundation/ZYFoundation.h'
 
   s.requires_arc = false
-  s.requires_arc = ['KPIOSFoundation/**/**/*.m']
+  s.requires_arc = ['KPIOSFoundation/Module/**/*.m']
   
 
 
